@@ -4,7 +4,7 @@
 
 <div style="display: flex;">
   
-<img width="450" src="https://github-readme-stats.vercel.app/api?username=mathewus&show_icons=true&theme=tokyonight">
+<img width="500" src="https://github-readme-stats.vercel.app/api?username=mathewus&show_icons=true&theme=tokyonight">
 
 <img width="385" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathewus&layout=compact&bg_color=021a2b&text_color=ffffff">
 
