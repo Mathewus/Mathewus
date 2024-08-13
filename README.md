@@ -1,10 +1,10 @@
-<h2 align="center">Olá!👋 sou Matheus Ventura, Desenvolvedor Web 💻</h2>
+<h2>Olá!👋 sou Matheus Ventura, Desenvolvedor Web 💻</h2>
 
 ###
 
 <div style="display: flex;">
   
-<img width="500" src="https://github-readme-stats.vercel.app/api?username=mathewus&show_icons=true&theme=tokyonight">
+<img width="450" src="https://github-readme-stats.vercel.app/api?username=mathewus&show_icons=true&theme=tokyonight">
 
 <img width="385" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathewus&layout=compact&bg_color=021a2b&text_color=ffffff">
 
@@ -23,4 +23,4 @@
   <a href = "mailto:araujomatheusventura@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-ventura-230893208" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  ![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/mathewus/blob/output/github-contribution-grid-snake.svg)
